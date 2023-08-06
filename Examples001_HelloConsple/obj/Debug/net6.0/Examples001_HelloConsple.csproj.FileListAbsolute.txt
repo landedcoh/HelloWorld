@@ -1,0 +1,15 @@
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\bin\Debug\net6.0\Examples001_HelloConsple.exe
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\bin\Debug\net6.0\Examples001_HelloConsple.deps.json
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\bin\Debug\net6.0\Examples001_HelloConsple.runtimeconfig.json
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\bin\Debug\net6.0\Examples001_HelloConsple.dll
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\bin\Debug\net6.0\Examples001_HelloConsple.pdb
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\Examples001_HelloConsple.csproj.AssemblyReference.cache
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\Examples001_HelloConsple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\Examples001_HelloConsple.AssemblyInfoInputs.cache
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\Examples001_HelloConsple.AssemblyInfo.cs
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\Examples001_HelloConsple.csproj.CoreCompileInputs.cache
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\Examples001_HelloConsple.dll
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\refint\Examples001_HelloConsple.dll
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\Examples001_HelloConsple.pdb
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\Examples001_HelloConsple.genruntimeconfig.cache
+C:\Users\coh2\Desktop\Examples\Examples001_HelloConsple\obj\Debug\net6.0\ref\Examples001_HelloConsple.dll
